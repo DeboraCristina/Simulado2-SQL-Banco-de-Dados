@@ -10,5 +10,5 @@ Em `questionario.txt`, contém as consultas q dever ser feitas.
 
 ## Imagem do Banco de Dados
 
-<img src="DER1.png" alt="Tabelas" width="450" height="220">
+<img src="DER1.png" alt="Tabelas">
 
